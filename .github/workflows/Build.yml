@@ -22,4 +22,6 @@ jobs:
         java-version: '11'
         distribution: 'adopt'
     - name: Test
-      run: javac .\DisplayTest.java -encoding utf8
+      run: |
+        cd java
+        javac .\DisplayTest.java -encoding utf8
