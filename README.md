@@ -12,7 +12,7 @@ Run with cmd:
 
 ```
 cd java
-javac .\DisplayTest.java -encoding utf8
+javac DisplayTest.java -encoding utf8
 java DisplayTest
 ```
 
