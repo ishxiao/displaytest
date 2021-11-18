@@ -1,11 +1,17 @@
 # displaytest
 DisplayTest
 
+Build status and test coverage
+------------------------------
+
+[![Build Status](https://github.com/ishxiao/displaytest/workflows/Build/badge.svg)](https://github.com/ishxiao/displaytest/actions?query=workflow%3ABuild)
+
 ## Quick start
 
 Run with cmd:
 
 ```
+cd java
 javac .\DisplayTest.java -encoding utf8
 java DisplayTest
 ```
