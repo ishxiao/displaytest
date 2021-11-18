@@ -24,4 +24,4 @@ jobs:
     - name: Test
       run: |
         cd java
-        javac .\DisplayTest.java -encoding utf8
+        javac DisplayTest.java -encoding utf8
